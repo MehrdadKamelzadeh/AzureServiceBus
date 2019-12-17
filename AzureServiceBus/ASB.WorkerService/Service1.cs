@@ -19,6 +19,7 @@ namespace ASB.WorkerService
 
         protected override void OnStart(string[] args)
         {
+
         }
 
         protected override void OnStop()
