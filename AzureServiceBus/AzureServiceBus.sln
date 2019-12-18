@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASB.WEB", "ASB.WEB\ASB.WEB.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASB.Services", "ASB.Services\ASB.Services.csproj", "{9541A4A7-6057-4658-BD8B-9E61C4405486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASB.WorkerService", "ASB.WorkerService\ASB.WorkerService.csproj", "{81F4BE57-65BC-4363-A523-E8E3656194E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASB.WorkerService2", "ASB.WorkerService\ASB.WorkerService2.csproj", "{81F4BE57-65BC-4363-A523-E8E3656194E4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASB.WorkerServiceConsole", "ASB.WorkerServiceConsole\ASB.WorkerServiceConsole.csproj", "{5B0AAFE1-FF0E-4FA0-9348-7F415FF185C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASB.WorkerServiceApp", "ASB.WorkerServiceApp\ASB.WorkerServiceApp.csproj", "{14FEDC54-0F1F-42B6-A413-EFEF195098F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5B0AAFE1-FF0E-4FA0-9348-7F415FF185C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B0AAFE1-FF0E-4FA0-9348-7F415FF185C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B0AAFE1-FF0E-4FA0-9348-7F415FF185C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FEDC54-0F1F-42B6-A413-EFEF195098F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FEDC54-0F1F-42B6-A413-EFEF195098F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FEDC54-0F1F-42B6-A413-EFEF195098F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FEDC54-0F1F-42B6-A413-EFEF195098F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
